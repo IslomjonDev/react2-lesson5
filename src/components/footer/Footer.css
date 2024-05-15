@@ -1,0 +1,22 @@
+footer{
+    padding: 80px 0;
+    background: #EDF2F4;
+
+}
+
+.foter-card{
+    width: 186px;
+    span{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        svg{
+            font-size: 24px;
+        }
+    }
+}
+.footer-cards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
